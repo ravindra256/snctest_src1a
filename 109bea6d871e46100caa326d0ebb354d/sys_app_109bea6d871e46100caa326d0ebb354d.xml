@@ -29,15 +29,15 @@
         <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
         <sys_created_on>2024-05-21 05:09:25</sys_created_on>
         <sys_id>109bea6d871e46100caa326d0ebb354d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
-        <sys_updated_on>2024-07-09 15:03:04</sys_updated_on>
+        <sys_updated_on>2024-07-09 15:04:23</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>
